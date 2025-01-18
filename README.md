@@ -1,0 +1,2 @@
+# -ESP-VERIFICADOR-DE-PLAYERS-V4-BY-THE-MR-RED-BLACK-OWNER-
+ESP que verifica o player 
